@@ -12,6 +12,9 @@ public class CC extends Test
 		c.demo1();
 		c.demo2();
 
+		
+		
+		
 	}
 
 	private void demo2() 
